@@ -1,4 +1,4 @@
-package main.java.winnersonx;
+package winnersonx;
 
 import java.util.ArrayList;
 
