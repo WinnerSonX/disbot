@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* winnersonx.Bot
+web: java -jar target/disbot.jar
