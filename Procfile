@@ -1,1 +1,1 @@
-web: node dist/src/main/java/winnersonx/
+web: java -cp target/classes/:target/dependency/* winnersonx.Bot
