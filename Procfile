@@ -1,1 +1,1 @@
-web: node dist/src/main/java/winnersonx/Bot.java
+web: node dist/src/main/java/winnersonx/
